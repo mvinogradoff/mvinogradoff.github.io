@@ -1,0 +1,48 @@
+body {
+	background-color: lightblue;
+	background-image: url(http://365psd.ru/images/backgrounds/bg-light-4789.png);
+	   height: 100%;
+        margin: 0;
+        padding: 0;
+}
+img {
+  width: 10%;
+  height: auto;
+}
+h1 {
+	font-family: Verdana;
+	text-align: center;
+}
+h2 {
+	font-family: Verdana;
+	color: white;
+	text-align: center;
+}
+#block1 {
+	background-image: url(http://4.bp.blogspot.com/-UcRV4wecjWY/T7ImeHuxINI/AAAAAAAAAL4/9TRM_yUc0HM/s1600/Person-Writing.jpg);
+	height: 400px;
+	width: auto;
+	background-size: cover;
+}
+#block2 {
+	background-image: url(http://365psd.ru/images/backgrounds/bg-dark-4772.jpg);
+	height: 400px;
+	width: auto;
+}
+
+#block3 {
+	background-image: url(https://opttour.ru/wp-content/uploads/2015/08/slidemodif1.jpg);
+	height: 400px;
+	width: auto;
+	background-size: cover;
+}
+
+
+footer {
+	background-image: url(http://365psd.ru/images/backgrounds/bg-light-4789.png);
+	text-align: center;
+	
+}
+.maintext {
+	font-family: verdana;
+}
